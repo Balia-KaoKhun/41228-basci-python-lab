@@ -1,0 +1,5 @@
+price = int(500)
+quantity = int(10)
+discount = float(0.9)
+total = float(price*quantity*discount)
+print("Total price is:",total)
